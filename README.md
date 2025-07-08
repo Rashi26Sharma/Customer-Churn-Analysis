@@ -66,4 +66,4 @@ To help stakeholders:
 * 🧭 **Strategic Targeting**: Data-backed insights guide marketing, pricing, and contract strategy
 
 ### 6. Preview of the Dashboard
-![Snapshot of the dashboard]()
+![Snapshot of the dashboard](https://github.com/Rashi26Sharma/Customer-Churn-Analysis/blob/main/Snapshot%20of%20the%20Customer%20Analaysis%20Dashboard.png)
