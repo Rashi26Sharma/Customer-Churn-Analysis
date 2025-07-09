@@ -67,3 +67,4 @@ To help stakeholders:
 
 ### 6. Preview of the Dashboard
 ![Snapshot of the dashboard](https://github.com/Rashi26Sharma/Customer-Churn-Analysis/blob/main/Snapshot%20of%20the%20Customer%20Analaysis%20Dashboard.png)
+![Snapshot of the second dashboard](https://github.com/Rashi26Sharma/Customer-Churn-Analysis/blob/main/Snapshot%20of%20the%20Customer%20Churn%20Analysis%20Dashboard.png)
